@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1419659185 source:c:\users\lenovoe\desktop\car\maze.cpp
+	"Maze.h"
+
+1419607699 c:\users\lenovoe\desktop\car\maze.h
+	<queue>
+	<vector>
+	<iostream>
+	<fstream>
+	"Point.h"
+
+1419607797 c:\users\lenovoe\desktop\car\point.h
+	<iostream>
+	<cmath>
+
+1419666803 source:c:\users\lenovoe\desktop\car\main.cpp
+	<iostream>
+	<fstream>
+	"highgui.h"
+	"cv.h"
+	"Control.h"
+	"Maze.h"
+	<sstream>
+
+1419608930 c:\users\lenovoe\desktop\car\control.h
+	<Windows.h>
+	<iostream>
+
+1419650147 source:c:\users\lenovoe\desktop\car\control.cpp
+	"highgui.h"
+	"cv.h"
+	"Control.h"
+
